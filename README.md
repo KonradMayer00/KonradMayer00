@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KonradMayer00
-- 🌱 I’m new to coding and looking to learn Python and C++
+- 🌱 I’m looking to learn Python and C++
 - 💞️ I’m looking to collaborate on any beginner projects that I could learn the basics of coding from
 - 📫 How to reach me: Either through GitHub or through my LinkedIn profile: https://www.linkedin.com/in/konradmayer
 
